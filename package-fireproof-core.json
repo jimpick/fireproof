@@ -1,5 +1,5 @@
 {
-  "name": "@fireproof/core",
+  "name": "@jimpick/fireproof-core",
   "version": "must-set",
   "description": "Live database for the web.",
   "type": "module",

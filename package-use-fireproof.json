@@ -1,5 +1,5 @@
 {
-  "name": "use-fireproof",
+  "name": "@jimpick/use-fireproof",
   "version": "must-set",
   "description": "Fireproof live database, JavaScript API and React hooks",
   "type": "module",
